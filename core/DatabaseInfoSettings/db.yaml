@@ -1,0 +1,7 @@
+# 存放生产环境的数据库账号密码
+
+name:
+  host: ""
+  port: 3306
+  username: ""
+  password: ""
